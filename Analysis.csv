@@ -1,0 +1,21 @@
+Data Analysis Questions,,,,,Row Labels,Sum of Revenue
+,,,,,Burgers,392000.28
+1) What is our best selling product?,,,,,Fries,125802.14
+,,,,,Beverages,125737.76
+,,,,,Chicken Sandwiches,115139
+,,,,,Sides & Other,53455.95
+,,,,,Grand Total,812135.13
+,,,,,,
+2) What is our total revenue?,,,,,Sum of Revenue,
+,,,,," $812,135.13 ",
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+3) What is the revenue breakdown by payment method?,,,,,Row Labels,Sum of Revenue
+,,,,, Credit Card,49.72%
+,,,,, Cash,29.49%
+,,,,, Gift Card,20.79%
+,,,,,Grand Total,100.00%
